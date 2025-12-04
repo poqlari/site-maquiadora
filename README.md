@@ -1,5 +1,5 @@
 # Site-maquiadora
-## Descriçâo
+## Descrição
 Site criado para atividade, utilizando HTML, CSS e bootstrap.
 O tema do site é sobre serviços de maquiagem.
 ## Desenvolvedora
